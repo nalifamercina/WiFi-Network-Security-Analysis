@@ -1,0 +1,6 @@
+Protocol,Packets
+IPv4,1313
+IPv6,4153
+TCP,3521
+UDP,1939
+ARP,147
