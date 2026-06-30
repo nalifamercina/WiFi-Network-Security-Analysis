@@ -156,79 +156,80 @@ images/
 
 ## 1. WiFi Packet Capture using Wireshark
 
-![Wireshark Packet Capture](Screenshots/Capturing_day1.png)
+![Wireshark Packet Capture](images/Screenshots/Capturing_day1.png)
 
 ---
 
 ## 2. Packet Capture Summary
 
-![Packet Summary](Screenshots/02_packet_capture_summary.png)
+![Packet Summary](images/Screenshots/02_packet_capture_summary.png)
 
 ---
 
 ## 3. Protocol Analysis
 
-![Protocol Summary](Screenshots/03_protocol_summary.png)
+![Protocol Summary](images/Screenshots/03_protocol_summary.png)
 
 ---
 
 ## 4. Source IP Address Analysis
 
-![Source IP Analysis](Screenshots/04_source_ip_analysis.png)
+![Source IP Analysis](images/Screenshots/04_source_ip_analysis.png)
 
 ---
 
 ## 5. Packet Size Analysis
 
-![Packet Size Analysis](Screenshots/05_packet_size_analysis.png)
+![Packet Size Analysis](images/Screenshots/05_packet_size_analysis.png)
 
 ---
 
 ## 6. DNS Query Analysis
 
-![DNS Analysis](Screenshots/06_dns_analysis.png)
+![DNS Analysis](images/Screenshots/06_dns_analysis.png)
 
 ---
 
 ## 7. Port Analysis
 
-![Port Analysis](Screenshots/07_port_analysis.png)
+![Port Analysis](images/Screenshots/07_port_analysis.png)
 
 ---
 
 ## 8. Main Program Execution
 
-![Main Program](Screenshots/08_main_program.png)
+![Main Program](images/Screenshots/08_main_program.png)
 
 ---
 
 ## 9. CSV Report Generation
 
-![CSV Reports](Screenshots/09_csv_report_generation.png)
+![CSV Reports](images/Screenshots/09_csv_report_generation.png)
 
 ---
 
 ## 10. Nmap Network Discovery
 
-![Network Discovery](Screenshots/10_nmap_network_discovery.png)
+![Network Discovery](images/Screenshots/10_nmap_network_discovery.png)
 
 ---
 
 ## 11. Open Port Scanner
 
-![Open Port Scanner](Screenshots/11_open_port_scanner.png)
+![Open Port Scanner](images/Screenshots/11_open_port_scanner.png)
 
 ---
 
 ## 12. Service Version Detection
 
-![Service Detection](Screenshots/12_service_version_detection.png)
+![Service Detection](images/Screenshots/12_service_version_detection.png)
 
 ---
 
 ## 13. Threat Detection Report
 
-![Threat Detector](Screenshots/13_Threat_Detector.png)
+![Threat Detector](images/Screenshots/13_Threat_Detector.png)
+
 # 📊 Generated Graphs
 
 ## Protocol Distribution
